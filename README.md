@@ -8,6 +8,8 @@ ARGO CD
 2) JENKINS FOR CI,  ARGO for Continous Delivery 
 3) ONE ADVANTAGE WITH ARGO CD is we don't need to write single line of CODE.
 4) WE CAN CONFIGURE EVERYTHING WITH UI
+5) Here we are storing KUBERNTES MANIFESTS in a different REPO
+6) It is always recommended to keep Manifests files in different repo so that we are following GITOPS Princpals 
 
 
 
