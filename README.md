@@ -1,6 +1,23 @@
 # django-todo
 A simple todo app built with django
 
+# ===================================================================================================
+ARGO CD
+--
+1) GIT OPS Based Tool, Specially designed for deployment on KUBERNETES, We can also use FLUX as an alternative
+2) JENKINS FOR CI,  ARGO for Continous Delivery 
+3) ONE ADVANTAGE WITH ARGO CD is we don't need to write single line of CODE.
+4) WE CAN CONFIGURE EVERYTHING WITH UI
+
+
+
+
+
+
+
+
+# ===================================================================================================
+
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
